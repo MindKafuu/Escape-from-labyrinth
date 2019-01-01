@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8ffa35fd3b7c04f4bb361b8fbf211983
+timeCreated: 1525067711
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PL-EDIT
+  fontNames:
+  - PL-EDIT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
